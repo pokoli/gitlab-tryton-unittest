@@ -1,0 +1,10 @@
+Tryton Image for runnig test suites on python2 and python3 on gitlab
+
+Based on edoburu/docker-python-runner which caches all the images
+
+Aditional system packages installed:
+
+    python-lxml
+    python-psycopg2
+
+So we do not have to build this packages from sources
