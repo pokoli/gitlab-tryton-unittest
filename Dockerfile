@@ -1,4 +1,4 @@
-FROM edoburu/docker-python-runne
+FROM edoburu/python-runner
 MAINTAINER sergi@koolpi.com
 
 # Install common packages
